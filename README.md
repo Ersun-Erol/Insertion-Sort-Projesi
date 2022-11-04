@@ -1,7 +1,6 @@
 # Insertion-Sort-Projesi
 Patika - Veri Yapıları ve Algoritmalar Derslerinin Alıştırma Projeleri Kapsamında Yapılmıştır. Insertion Sort Projesi'dir. 
 ## Insertion-Sort-Projesi
----
 [22,27,16,2,18,6] -> Insertion Sort  
  
 
