@@ -48,5 +48,4 @@ Patika - Veri Yapıları ve Algoritmalar Derslerinin Alıştırma Projeleri Kaps
 3. Aşama => [2,3,4,|8,7,9,5,15,6]
 4. Aşama => [2,3,4,5,|7,9,8,15,6]
 ```
-[patika](https://app.patika.dev/ersun)
-     
+Patika.dev profilime [buradan ](https://app.patika.dev/ersun)ulaşabilirsiniz.
