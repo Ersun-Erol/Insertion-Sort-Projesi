@@ -26,7 +26,7 @@ Patika - Veri Yapıları ve Algoritmalar Derslerinin Alıştırma Projeleri Kaps
 ## 3. Time Complexity:
 
 ```
-  - Average case: Aradığımız sayının(18) ortada olması -->[2,6,16,18,22,27]
+ - Average case: Aradığımız sayının(18) ortada olması -->[2,6,16,18,22,27]
  - Worst case: Aradığımız sayının(2) sonda olması,   -->[27,22,18,16,6,2]
  - Best case: Aradığımız sayının(2) dizinin en başında olması. -->[2,6,16,18,22,27]
  ```
